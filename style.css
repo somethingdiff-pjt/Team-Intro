@@ -82,11 +82,11 @@ body::before{
 .img-item.active .item img{
     filter: blur(0);
 }
-/* .carousel{
+.carousel{
     display: flex;
     justify-content: end;
     align-items: center;
-} */
+} 
 
 .info-box{
     position:fixed;
