@@ -34,7 +34,7 @@ body::before{
 }
 
 .img-box{
-    left: -95%;
+    left: -98%;
     position: absolute;
     top : 50%;
     transform: translateY(-50%);
