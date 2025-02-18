@@ -22,7 +22,7 @@ body{
 body::before{
     content: '';
     position: absolute;
-    left: 3.5%;
+    left: 4%;
     top: 50%;
     transform: translateY(-50%);
     width: 700px;
@@ -82,11 +82,15 @@ body::before{
 .img-item.active .item img{
     filter: blur(0);
 }
+/* .carousel{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+} */
 
 .info-box{
-    position: absolute;
+    position:fixed;
     right: 0;
-    left: 80;
     top: 50%;
     transform: translateY(-50%);
     width: 500px;
