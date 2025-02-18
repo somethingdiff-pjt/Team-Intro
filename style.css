@@ -34,7 +34,7 @@ body::before{
 }
 
 .img-box{
-    left: -72%;
+    left: -68%;
     position: absolute;
     top : 50%;
     transform: translateY(-50%);
@@ -121,6 +121,9 @@ body::before{
 .info-item h2:nth-child(2){
     margin: 20px 0;
 }
+img{
+    box-shadow: 10px 10px 10px 10px rgb(53, 53, 53);
+}
 
 .colors span{
     display: inline-block;
@@ -135,15 +138,15 @@ body::before{
 }
 
 .colors span:nth-child(1){
-    background: #3674be;
+    background: #171f2b;
 }
 
 .colors span:nth-child(2){
-    background: #d26181;
+    background: #3499AB;
 }
 
 .colors span:nth-child(3){
-    background: #ceb13d;
+    background: #BDB98D;
 }
 
 .colors span:nth-child(4){
@@ -151,11 +154,11 @@ body::before{
 }
 
 .colors span:nth-child(5){
-    background: #171f2b;
+    background: #3C56B2;
 }
 
 .colors span:nth-child(6){
-    background: #50aa61;
+    background: #3C4B26;
 }
 
 .info-item p{
